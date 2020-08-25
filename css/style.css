@@ -36,7 +36,21 @@
 
 
 /* text-block */
+.text-block {
 
+}
+.text-block__wrapper {
+
+}
+.text-block__image {
+
+}
+.text-block__button {
+
+}
+.text-block__apps {
+    
+}
 
 @media (max-width: 576px){
     
